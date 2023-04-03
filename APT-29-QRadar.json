@@ -14,8 +14,8 @@
     "id": "observed-data--45d24223-69c0-47be-96c2-c997ca4d270f",
     "type": "observed-data",
     "created_by_ref": "identity--5502a7ab-8d74-487d-a20d-878a40f7f835",
-    "created": "2020-09-08T19:11:52.666Z",
-    "modified": "2020-09-08T19:11:52.666Z",
+    "created": "2023-04-01T19:11:52.666Z",
+    "modified": "2023-04-01T19:11:52.666Z",
     "objects": {
         "0": {
             "type": "ipv4-addr",
